@@ -316,6 +316,7 @@ pre {
 
     .showcase {
         height: auto;
+        
     }
 
     .showcase-text {
@@ -327,6 +328,8 @@ pre {
     .showcase-form {
         justify-self: center;
         margin: auto;
+        width: 100%;
+        height: auto;
         animation: slideInFromBottom 1s ease-in;
     }
 
